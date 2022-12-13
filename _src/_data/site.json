@@ -1,6 +1,6 @@
 {
-  "title": "Dogs of Dev",
-  "url": "https://dogsof.dev",
-  "description": "Pictures of dogs of people who make websites.",
+  "title": "Photo Album",
+  "url": "https://uva-photo-album-starter.vercel.app",
+  "description": "Pictures of everything to share.",
   "socialImg": "/images/dod-social.jpg"
 }
